@@ -5,4 +5,3 @@ public class BonusMilesService {
         return cost / bonusMilesForEachSum * bonusMiles;
     }
 }
-
